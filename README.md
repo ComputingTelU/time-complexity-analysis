@@ -7,3 +7,10 @@
 1. Fork this repository
 2. Add your answer to your forked repository in a new folder
 3. Pull request to this repository
+
+## Additional Information
+
+- [How to keep your forked repository updated](https://help.github.com/en/articles/merging-an-upstream-repository-into-your-fork
+)
+
+- [How to create a pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork)
