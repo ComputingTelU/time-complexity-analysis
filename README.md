@@ -1,7 +1,10 @@
 # Time Complexity Analysis
 1st Task of Study Group Basic Computing Laboratory Gen 5.0
-1. Time complexity of binary search
-2. Implementation of traveling salesman problem
+1. Calculate the time complexity of [Binary Search](../blob/master/binarysearch.py).
+
+2. Implementat a program to solve **Travelling Salesman** (TSP) from the following graph using **Brute Force** approach.
+![alt text](https://raw.githubusercontent.com/ComputingTelU/time-complexity-analysis/master/images/shortestpath.jpg "Graph")
+
 
 ## How to submit your assignment
 1. Fork this repository
